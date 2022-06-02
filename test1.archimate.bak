@@ -13,13 +13,9 @@
       <child xsi:type="archimate:Note" id="id-59f60126ff43446990cf0caa7ab72ab3" targetConnections="id-790a0d68eee249ab9fe85e46cb8d2a58" textAlignment="1">
         <bounds x="168" y="96" width="109" height="85"/>
       </child>
-      <child xsi:type="archimate:Note" id="id-2a1f503906ef4412b76169f531dba3ea" targetConnections="id-8c3edbd94fd04feabe9b2591925497a2" textAlignment="1">
+      <child xsi:type="archimate:Note" id="id-2a1f503906ef4412b76169f531dba3ea" textAlignment="1">
         <bounds x="336" y="96" width="121" height="73"/>
         <sourceConnection id="id-790a0d68eee249ab9fe85e46cb8d2a58" source="id-2a1f503906ef4412b76169f531dba3ea" target="id-59f60126ff43446990cf0caa7ab72ab3"/>
-      </child>
-      <child xsi:type="archimate:Note" id="id-88a4229a4b624115a22aae492c6fd7c5" textAlignment="1">
-        <bounds x="422" y="208" width="185" height="80"/>
-        <sourceConnection id="id-8c3edbd94fd04feabe9b2591925497a2" source="id-88a4229a4b624115a22aae492c6fd7c5" target="id-2a1f503906ef4412b76169f531dba3ea"/>
       </child>
     </element>
   </folder>
