@@ -48,15 +48,4 @@
           href="DataObject_id-20f269fa75124d048013a6c9c1c4db0a.xml#id-20f269fa75124d048013a6c9c1c4db0a"/>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-c9afdc90efd54042ac155a4e84b363ce"
-      textAlignment="1"
-      content="test Aris">
-    <bounds
-        x="675"
-        y="109"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
